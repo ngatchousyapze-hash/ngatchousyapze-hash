@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 <h1 align="center">👋 Bonjour, moi c’est Nelson</h1>
-<h3 align="center">🔐 Junior Cybersecurity Enthusiast | Blue Team | SOC Analyst en devenir</h3>
+<h3 align="center">🔐 Junior Cybersecurity Enthusiast | Blue Team 
 
 ---
 
 ## 🧑‍💻 À propos de moi
 
 🎓 Étudiant ingénieur passionné par la cybersécurité  
-🛡️ Spécialisation : Blue Team / SOC / Threat Detection  
-🔍 Intéressé par : Incident Response, SIEM, Threat Hunting  
+🛡️ Spécialisation : Blue Team / SOC / GRC 
+🔍 Intéressé par : Incident Response, SIEM,  
 🚀 Objectif : Devenir Analyste SOC / Cybersecurity Engineer  
 
 ---
