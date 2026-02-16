@@ -65,14 +65,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Certifications & Formations
 
 - 📜 Foundation of Cybersecurity (coursera)
