@@ -25,12 +25,6 @@
 
 ---
 
-## 📊 Frameworks & Normes
-
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-Security%20Management-blue?style=for-the-badge)
-![NIST](https://img.shields.io/badge/NIST-Cybersecurity%20Framework-purple?style=for-the-badge)
-![RGPD](https://img.shields.io/badge/RGPD-Data%20Protection-green?style=for-the-badge)
-
 ---
 
 
